@@ -1,0 +1,11 @@
+version: '2'
+services:
+  php_code_interview:
+    container_name: php_code_interview
+    image: "php:7.1-apache"
+    ports:
+      - "8888:80"
+    volumes:
+      - "./..:/var/www/html"
+      - "./php.ini:/usr/local/etc/php/php.ini"
+      - "./sites-enabled:/etc/apache2/sites-enabled"

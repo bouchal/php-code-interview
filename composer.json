@@ -1,0 +1,12 @@
+{
+    "name": "bouchal/code-intrview",
+    "authors": [
+        {
+            "name": "Antonin Bouchal",
+            "email": "me@justme.cz"
+        }
+    ],
+    "require": {
+        "nette/robot-loader": "^3.0"
+    }
+}

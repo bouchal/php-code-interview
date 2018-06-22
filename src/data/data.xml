@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<people>
+    <person>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <City>New York</City>
+    </person>
+    <person>
+        <FirstName>Elisabeth</FirstName>
+        <LastName>Novak</LastName>
+        <City>Los Angeles</City>
+    </person>
+    <person>
+        <FirstName>George</FirstName>
+        <LastName>Lucas</LastName>
+        <City>London</City>
+    </person>
+</people>
