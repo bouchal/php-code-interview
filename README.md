@@ -1,6 +1,6 @@
-# PHP Code Interview Task (senior level)
+# PHP Code Interview Task
 
-For testing all necessary skills what senior should know.
+For testing all necessary skills what you should know.
 
 ## Tested areas
 
